@@ -1,0 +1,27 @@
+{
+  "name": "hubrick-code-challenge",
+  "version": "1.0.0",
+  "description": "JS code challenge for recruitment peocess in Hubrick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mayacode/hubrick-code-challenge.git"
+  },
+  "keywords": [
+    "hubrick",
+    "code",
+    "challenge"
+  ],
+  "author": "Maja Miarecki <maja.miarecki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayacode/hubrick-code-challenge/issues"
+  },
+  "homepage": "https://github.com/mayacode/hubrick-code-challenge#readme",
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}

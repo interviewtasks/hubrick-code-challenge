@@ -1,0 +1,602 @@
+[
+  {
+    "false_id": 3, 
+    "id": 1, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 2
+  }, 
+  {
+    "false_id": 5, 
+    "id": 2, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 4
+  }, 
+  {
+    "false_id": 7,
+    "id": 3, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 6
+  }, 
+  {
+    "false_id": 9, 
+    "id": 4, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 8
+  }, 
+  {
+    "false_id": 11, 
+    "id": 5, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 10
+  }, 
+  {
+    "false_id": 13, 
+    "id": 6, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 12
+  }, 
+  {
+    "false_id": 15, 
+    "id": 7, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 14
+  }, 
+  {
+    "false_id": 17, 
+    "id": 8, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 16
+  }, 
+  {
+    "false_id": 19, 
+    "id": 9, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 18
+  }, 
+  {
+    "false_id": 21, 
+    "id": 10, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 20
+  }, 
+  {
+    "false_id": 23, 
+    "id": 11, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 22
+  }, 
+  {
+    "false_id": 25, 
+    "id": 12, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 24
+  }, 
+  {
+    "false_id": 27, 
+    "id": 13, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 26
+  }, 
+  {
+    "false_id": 29, 
+    "id": 14, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 28
+  }, 
+  {
+    "false_id": 31, 
+    "id": 15, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 30
+  }, 
+  {
+    "false_id": 33, 
+    "id": 16, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 32
+  }, 
+  {
+    "false_id": 35, 
+    "id": 17, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 34
+  }, 
+  {
+    "false_id": 37, 
+    "id": 18, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 36
+  }, 
+  {
+    "false_id": 39, 
+    "id": 19, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 38
+  }, 
+  {
+    "false_id": 41, 
+    "id": 20, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 40
+  }, 
+  {
+    "false_id": 43, 
+    "id": 21, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 42
+  }, 
+  {
+    "false_id": 45, 
+    "id": 22, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 44
+  }, 
+  {
+    "false_id": 47, 
+    "id": 23, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 46
+  }, 
+  {
+    "false_id": 49, 
+    "id": 24, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 48
+  }, 
+  {
+    "false_id": 51, 
+    "id": 25, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 50
+  }, 
+  {
+    "false_id": 53, 
+    "id": 26, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 52
+  }, 
+  {
+    "false_id": 55, 
+    "id": 27, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 54
+  }, 
+  {
+    "false_id": 57, 
+    "id": 28, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 56
+  }, 
+  {
+    "false_id": 59, 
+    "id": 29, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 58
+  }, 
+  {
+    "false_id": 61, 
+    "id": 30, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 60
+  }, 
+  {
+    "false_id": 63, 
+    "id": 31, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 62
+  }, 
+  {
+    "false_id": 65, 
+    "id": 32, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 64
+  }, 
+  {
+    "false_id": 67, 
+    "id": 33, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 66
+  }, 
+  {
+    "false_id": 69, 
+    "id": 34, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 68
+  }, 
+  {
+    "false_id": 71, 
+    "id": 35, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 70
+  }, 
+  {
+    "false_id": 73, 
+    "id": 36, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 72
+  }, 
+  {
+    "false_id": 75, 
+    "id": 37, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 74
+  }, 
+  {
+    "false_id": 77, 
+    "id": 38, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 76
+  }, 
+  {
+    "false_id": 79, 
+    "id": 39, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 78
+  }, 
+  {
+    "false_id": 81, 
+    "id": 40, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 80
+  }, 
+  {
+    "false_id": 83, 
+    "id": 41, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 82
+  }, 
+  {
+    "false_id": 85, 
+    "id": 42, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 84
+  }, 
+  {
+    "false_id": 87, 
+    "id": 43, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 86
+  }, 
+  {
+    "false_id": 89, 
+    "id": 44, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 88
+  }, 
+  {
+    "false_id": 91, 
+    "id": 45, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 90
+  }, 
+  {
+    "false_id": 93, 
+    "id": 46, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 92
+  }, 
+  {
+    "false_id": 95, 
+    "id": 47, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 94
+  }, 
+  {
+    "false_id": 97, 
+    "id": 48, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 96
+  }, 
+  {
+    "false_id": 99, 
+    "id": 49, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 98
+  }, 
+  {
+    "false_id": null, 
+    "id": 50, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": 100
+  }, 
+  {
+    "false_id": null, 
+    "id": 51, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 52, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 53, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 54, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 55, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 56, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 57, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 58, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 59, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 60, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 61, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 62, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 63, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 64, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 65, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 66, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 67, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 68, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 69, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 70, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 71, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 72, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 73, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 74, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 75, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 76, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 77, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 78, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 79, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 80, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 81, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 82, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 83, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 84, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 85, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 86, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 87, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 88, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 89, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 90, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 91, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 92, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 93, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 94, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 95, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 96, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 97, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 98, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 99, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }, 
+  {
+    "false_id": null, 
+    "id": 100, 
+    "rule": "function(data){return (Math.floor(Math.random() * (9 - 0 + 1)) + 0)%2 === 0}", 
+    "true_id": null
+  }
+]
